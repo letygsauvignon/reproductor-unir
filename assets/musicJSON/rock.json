@@ -1,0 +1,26 @@
+[
+    {
+        "id":1,
+        "playlist":"rock",
+        "artista":"",
+        "nombre" : "Hallelujah",
+        "url":"assets/music/rock/Hallelujah.mp4",
+        "duracion":209
+    },
+    {
+        "id":2,
+        "playlist":"rock",
+        "artista":"",
+        "nombre" : "Its my life",
+        "url":"assets/music/rock/Its.mp4",
+        "duracion":344
+    },
+    {
+        "id":3,
+        "playlist":"rock",
+        "artista":"",
+        "nombre" : "A Memory",
+        "url":"assets/music/rock/You.mp4",
+        "duracion":198
+    }
+]

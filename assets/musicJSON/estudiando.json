@@ -1,0 +1,35 @@
+[
+    {
+        "id":1,
+        "playlist":"estudiar",
+        "artista":"",
+        "nombre" : "All of me",
+        "url":"assets/music/estudiar/All.mp4",
+        "duracion":200
+    },
+    {
+        "id":2,
+        "playlist":"estudiar",
+        "artista":"",
+        "nombre" : "Thinking",
+        "url":"assets/music/estudiar/Thinking.mp4",
+        "duracion":448
+    },
+    {
+        "id":3,
+        "playlist":"estudiar",
+        "artista":"",
+        "nombre" : "Just",
+        "url":"assets/music/estudiar/Just.mp4",
+        "duracion":211
+    },
+
+    {
+        "id":4,
+        "playlist":"estudiar",
+        "artista":"",
+        "nombre" : "Photograph",
+        "url":"assets/music/estudiar/Photograph.mp4",
+        "duracion":211
+    }
+]
